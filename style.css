@@ -63,6 +63,11 @@ img {
     padding: 15px 30px;
 }
 
+.hero-banner-p {
+    margin: 0 10%;
+    margin-top: -60px;
+}
+
 /*============
 Mission Area
 =============*/
@@ -101,18 +106,22 @@ Mission Area
 
 
 /*============
-Develop Area
+Develop Area/know me area
 =============*/
+
+.develop-area {
+    margin-bottom: 100px;
+}
 
 .develop-ch-1 {
     width: 40%;
 }
 
-.develop-ch-1 img {
-    width: 100%;
-}
-
 .develop-ch-2 {
     width: 60%;
     padding-right: 2%;
+}
+
+.know-me-ch-2 img {
+    margin-left: 20%;
 }
