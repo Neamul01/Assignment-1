@@ -4,6 +4,10 @@ body {
     font-family: 'Merriweather', serif;
 }
 
+.container {
+    margin-bottom: 100px;
+}
+
 .style-color {
     color: #ff4d4d;
 }
@@ -17,6 +21,10 @@ p {
     line-height: 1.3;
 }
 
+img {
+    max-width: 60%;
+}
+
 .flexible-container {
     display: flex;
     margin: 3% 10%;
@@ -26,9 +34,7 @@ p {
     width: 50%;
 }
 
-.hero-banner-child img {
-    max-width: 60%;
-}
+
 
 .hero-banner-child h1 {
     border-left: 3px solid green;
@@ -41,7 +47,7 @@ p {
 }
 
 .hero-ch-2 img {
-    margin-left: 40%;
+    margin-left: 30%;
 }
 
 .link-button {
@@ -51,4 +57,38 @@ p {
     border-radius: 5px;
     text-decoration: none;
     padding: 15px 30px;
+}
+
+/*============
+Mission Area
+=============*/
+
+
+.mission-area h1 {
+    text-align: center;
+}
+
+.mission-child {
+    width: 24%;
+    padding: 2%;
+    margin-left: 5%;
+    border-radius: 5%;
+
+}
+
+.mission-ch-1 {
+    background-color: #b9cacc;
+    box-shadow: 1px 1px 25px #000000;
+}
+
+.mission-ch-2 {
+    background-color: #d1acac;
+    box-shadow: 1px 1px 25px #000000;
+
+}
+
+.mission-ch-3 {
+    background-color: #a797bb;
+    box-shadow: 1px 1px 25px #000000;
+
 }
