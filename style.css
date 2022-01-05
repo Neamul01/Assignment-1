@@ -35,15 +35,20 @@ p {
     padding: 0px 10px;
 }
 
-.hero-ch-1 {
-    padding-right: 5%;
-}
-
 .hero-ch-1 p {
-    padding-right: 5%;
     text-align: justify;
+    margin-bottom: 40px;
 }
 
 .hero-ch-2 img {
     margin-left: 40%;
+}
+
+.link-button {
+    color: white;
+    background-color: #ff794d;
+    font-size: 18px;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 15px 30px;
 }
