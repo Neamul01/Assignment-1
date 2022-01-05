@@ -16,13 +16,18 @@ h1 {
     font-size: 42px;
 }
 
+h2 {
+    font-size: 30px;
+}
+
 p {
     font-family: 'Lato', sans-serif;
     line-height: 1.3;
+    margin-bottom: 40px;
 }
 
 img {
-    max-width: 60%;
+    max-width: 80%;
 }
 
 .flexible-container {
@@ -43,11 +48,10 @@ img {
 
 .hero-ch-1 p {
     text-align: justify;
-    margin-bottom: 40px;
 }
 
 .hero-ch-2 img {
-    margin-left: 30%;
+    margin-left: 20%;
 }
 
 .link-button {
@@ -71,7 +75,7 @@ Mission Area
 .mission-child {
     width: 24%;
     padding: 2%;
-    margin-left: 5%;
+    border: 0.1px solid rgba(0, 0, 0, 0.39);
     border-radius: 5%;
 
 }
@@ -84,11 +88,31 @@ Mission Area
 .mission-ch-2 {
     background-color: #d1acac;
     box-shadow: 1px 1px 25px #000000;
+    margin-left: 5%;
 
 }
 
 .mission-ch-3 {
     background-color: #a797bb;
     box-shadow: 1px 1px 25px #000000;
+    margin-left: 11%;
+}
 
+
+
+/*============
+Develop Area
+=============*/
+
+.develop-ch-1 {
+    width: 40%;
+}
+
+.develop-ch-1 img {
+    width: 100%;
+}
+
+.develop-ch-2 {
+    width: 60%;
+    padding-right: 2%;
 }
