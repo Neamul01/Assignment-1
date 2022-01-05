@@ -57,7 +57,7 @@ img {
 .link-button {
     color: white;
     background-color: #3b3358;
-    font-size: 18px;
+    font-size: 15px;
     border-radius: 5px;
     text-decoration: none;
     padding: 15px 30px;
@@ -141,4 +141,6 @@ footer {
 
 footer h2 {
     margin-bottom: -5px;
+    font-family: 'Cookie', cursive;
+    letter-spacing: 2px;
 }
