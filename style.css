@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    background-color: #fff;
+    font-family: 'Merriweather', serif;
+}
+
+.style-color {
+    color: #ff4d4d;
+}
+
+h1 {
+    font-size: 42px;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+    line-height: 1.3;
+}
+
+.flexible-container {
+    display: flex;
+    margin: 3% 10%;
+}
+
+.hero-banner-child {
+    width: 50%;
+}
+
+.hero-banner-child img {
+    max-width: 60%;
+}
+
+.hero-banner-child h1 {
+    border-left: 3px solid green;
+    padding: 0px 10px;
+}
+
+.hero-ch-1 {
+    padding-right: 5%;
+}
+
+.hero-ch-1 p {
+    padding-right: 5%;
+    text-align: justify;
+}
+
+.hero-ch-2 img {
+    margin-left: 40%;
+}
