@@ -125,3 +125,20 @@ Develop Area/know me area
 .know-me-ch-2 img {
     margin-left: 20%;
 }
+
+
+/*============
+Develop Area/know me area
+=============*/
+
+footer {
+    height: 140px;
+    background-color: #000000;
+    color: #fff;
+    text-align: center;
+    padding: 30px;
+}
+
+footer h2 {
+    margin-bottom: -5px;
+}
