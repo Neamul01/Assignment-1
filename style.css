@@ -40,7 +40,14 @@ img {
 }
 
 .hero-title {
-    border-left: 3px solid green;
+    display: flex;
+}
+
+.hero-title-border {
+    height: 84px;
+    border: 2px solid green;
+    border-radius: 400px;
+    margin-top: 42px;
 }
 
 .hero-banner-child h1 {
