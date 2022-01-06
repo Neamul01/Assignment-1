@@ -81,8 +81,9 @@ Mission Area
 =============*/
 
 
-.mission-area h1 {
+.mission-area h2 {
     text-align: center;
+    margin-bottom: 75px;
 }
 
 .mission-child {
@@ -144,9 +145,10 @@ projects area
     margin-bottom: 100px;
 }
 
-.projects-area h1 {
+.projects-area h2 {
     text-align: center;
     margin-top: 100px;
+    margin-bottom: 50px;
 }
 
 .projects-child {
