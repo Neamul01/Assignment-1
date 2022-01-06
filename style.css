@@ -39,10 +39,11 @@ img {
     width: 50%;
 }
 
-
+.hero-title {
+    border-left: 3px solid green;
+}
 
 .hero-banner-child h1 {
-    border-left: 3px solid green;
     padding: 0px 10px;
 }
 
@@ -143,4 +144,35 @@ footer h2 {
     margin-bottom: -5px;
     font-family: 'Cookie', cursive;
     letter-spacing: 2px;
+}
+
+
+/*============
+projects area
+=============*/
+
+.projects-area {
+    margin-bottom: 100px;
+}
+
+.projects-area h1 {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.projects-child {
+    width: 24%;
+    padding: 1%;
+    height: 400px;
+}
+
+.projects-child-a {
+    height: 300px;
+    overflow-y: scroll;
+    white-space: nowrap;
+}
+
+.projects-child h3 {
+    /* text-align: center; */
+    padding-bottom: 10px;
 }
